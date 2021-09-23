@@ -1,4 +1,4 @@
-GPA = 4.00
+GPA = 3.00
 
 if GPA >= 2.00:
   print("You have the right GPA to graduate!")
